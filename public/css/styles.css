@@ -1,0 +1,29 @@
+.card{
+    margin:5% !important;
+}
+.buttons{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: black;
+}
+
+.card-buttons { 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 2%;
+}
+.btn-primary{
+    margin-left: 2%;
+}
+form{
+    margin: 5%;
+}
